@@ -1,1 +1,1 @@
-# Tech Stack: HTML5, CSS3, & JavaScript
+# Tech Stack: HTML5, CSS3, Tailwind CSS, & JavaScript
